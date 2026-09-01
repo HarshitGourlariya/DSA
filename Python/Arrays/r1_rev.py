@@ -7,4 +7,4 @@ for i in range(len(arr)):
         max =arr[i]
     elif(arr[i]>smax):
         smax =arr[i]
-print(smax)2
+print(smax)
