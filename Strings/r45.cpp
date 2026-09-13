@@ -21,6 +21,5 @@ int main()
     cin >>s;
     int result = palindrome(s);
     cout << result;
-    
-
 }
+
